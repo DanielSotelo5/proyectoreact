@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proyectoreact/static/css/main.ee1fb141.css",
+    "main.js": "/proyectoreact/static/js/main.38e4fd8f.js",
+    "index.html": "/proyectoreact/index.html",
+    "main.ee1fb141.css.map": "/proyectoreact/static/css/main.ee1fb141.css.map",
+    "main.38e4fd8f.js.map": "/proyectoreact/static/js/main.38e4fd8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee1fb141.css",
+    "static/js/main.38e4fd8f.js"
+  ]
+}
